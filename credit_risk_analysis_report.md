@@ -12,9 +12,9 @@ In this section, describe the analysis you completed for the machine learning mo
 
 ## Results
 
-Accuracy Score - 0.99
-Precision Score(Weighted Avg) - 0.99
-Recall Score(Weighted Avg) - 0.99
+* Accuracy Score - 0.99
+* Precision Score(Weighted Avg) - 0.99
+* Recall Score(Weighted Avg) - 0.99
 
 ## Summary
 
